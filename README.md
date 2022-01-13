@@ -8,3 +8,4 @@ Anggota Kelompok:
 2. Ikhsan Ramadhan         (1910631170087)
 3. Aldea Ulilalbab         (1910631170062)
 4. Nurhidayat              (1910631170113)
+5. Yusril Arbizal          (1910631170057)
